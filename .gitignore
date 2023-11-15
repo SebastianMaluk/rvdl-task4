@@ -1,0 +1,17 @@
+.DS_Store
+T4 Dataset
+unet_adam.h5
+unet_sgd.h5
+unet_plus_adam.h5
+unet_plus_sgd.h5
+unet_adam_history.json
+unet_sgd_history.json
+unet_plus_adam_history.json
+unet_plus_sgd_history.json
+main copy.ipynb
+test.py
+pyproject.toml
+__pycache__
+.flake8
+.pylintrc
+T4 Dataset.zip
